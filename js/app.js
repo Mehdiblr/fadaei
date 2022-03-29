@@ -1,9 +1,3 @@
-/* Before and After image script By Dynamic Drive
- * Created: Oct 15th', 2014 by DynamicDrive.com. This notice must stay intact for usage 
- * Author: Dynamic Drive at http://www.dynamicdrive.com/
- * Visit http://www.dynamicdrive.com/ for full source code
- */
-
 var ddbeforeandafter = (function($) {
 
     var gallerydefaults = {
@@ -179,4 +173,4 @@ var ddbeforeandafter = (function($) {
     }
 
     return ddbeforeandafter
-})($)
+})(jQuery)
